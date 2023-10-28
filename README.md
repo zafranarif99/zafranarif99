@@ -4,8 +4,7 @@ Three words to describe me: Mathematician, Leader, Digital Literacy Enthusiast.
 With a rare combination of leadership acumen, mathematical prowess, and a fiery passion for digital literacy, I'm poised to continue making significant contributions to the academic and professional arenas.
 
 Reach me out!
-LinkedIn Profile: linkedin.com/in/zafranarif99/
-Email: zafranarif@gmail.com
+LinkedIn Profile: linkedin.com/in/zafranarif99/ | Email: zafranarif@gmail.com
 <!--
 **zafranarif99/zafranarif99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

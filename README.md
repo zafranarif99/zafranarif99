@@ -1,9 +1,10 @@
-### Hi!
+### Welcome to my Github profile!
 Three words to describe me: Mathematician, Leader, Digital Literacy Enthusiast.
 
-With a rare combination of leadership acumen, mathematical prowess, and a fiery passion for digital literacy, I'm poised to continue making significant contributions to the academic and professional arenas.
+With a rare combination of leadership acumen, mathematical prowess, and a passion for digital literacy, I'm poised to continue making significant contributions to the academic and professional arenas.
 
 Reach me out!
+<br>
 LinkedIn Profile: linkedin.com/in/zafranarif99/
 <br>
 Email: zafranarif@gmail.com

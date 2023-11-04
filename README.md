@@ -9,7 +9,7 @@ Reach me out!
 <br>
 E-Portfolio: https://tinyurl.com/zafran-portfolio
 <br>
-LinkedIn Profile: linkedin.com/in/zafranarif99/
+LinkedIn Profile: https://linkedin.com/in/zafranarif99/
 <br>
 Email: zafranarif@gmail.com
 <!--

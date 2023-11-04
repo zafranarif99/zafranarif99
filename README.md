@@ -6,6 +6,7 @@ With a rare combination of mathematical prowess, leadership acumen, and a passio
 I'm currently honing my MATLAB and R skills, along with learning HTML, JS, and CSS.
 
 Reach me out!
+<br>
 E-Portfolio: https://tinyurl.com/zafran-portfolio
 <br>
 LinkedIn Profile: linkedin.com/in/zafranarif99/

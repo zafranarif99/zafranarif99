@@ -4,7 +4,9 @@ Three words to describe me: Mathematician, Leader, Digital Literacy Enthusiast.
 With a rare combination of mathematical prowess, leadership acumen, and a passion for digital literacy, I'm poised to continue making significant contributions to the academic and professional arenas.
 
 I'm currently honing my MATLAB and R skills, along with learning HTML, JS, and CSS.
+
 Reach me out!
+E-Portfolio: https://tinyurl.com/zafran-portfolio
 <br>
 LinkedIn Profile: linkedin.com/in/zafranarif99/
 <br>
